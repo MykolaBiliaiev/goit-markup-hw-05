@@ -285,7 +285,7 @@ background: #FFFFFF;
 border: 1px solid rgba(0, 0, 0, 0.1);
 box-sizing: border-box;
 border-radius: 100%;
-background-image: url(/images/hero/Vector.svg);
+background-image: url(./images/hero/Vector.svg);
 background-repeat: no-repeat;
 background-position: center;
 }
@@ -744,7 +744,6 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1p
 }
 
 .thumb {
-  margin: 10px;
   overflow: hidden;
   position: relative;
 }
